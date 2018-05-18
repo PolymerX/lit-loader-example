@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"*.lit": "html",
+		"*.pcss": "css"
+	}
+}
