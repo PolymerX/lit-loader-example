@@ -35,6 +35,7 @@
 		"@polymer/lit-element": "0.5.1",
 		"babel-loader": "^8.0.0-beta",
 		"html-webpack-plugin": "3.2.0",
+		"lit-loader": "0.0.1",
 		"postcss-easy-import": "3.0.0",
 		"webpack": "4.8.3",
 		"webpack-cli": "2.1.3",
