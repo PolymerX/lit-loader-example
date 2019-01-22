@@ -1,6 +1,6 @@
 /* eslint-disable import/no-unassigned-import */
 
-import {LitElement, html} from '@polymer/lit-element';
+import {LitElement, html} from 'lit-element';
 
 import './components/CounterElement.lit';
 
@@ -9,7 +9,7 @@ export default class LitApp extends LitElement {
 		return {};
 	}
 
-	_render() {
+	render() {
 		return html`
 			<div>
 				<counter-element></counter-element>
